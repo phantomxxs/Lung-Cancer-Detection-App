@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/769216392426650226/680da2a34aae447f9c3fe2a31805899f/artifacts
+end_time: 1720800670075
+entry_point_name: ''
+experiment_id: '769216392426650226'
+lifecycle_stage: active
+run_id: 680da2a34aae447f9c3fe2a31805899f
+run_name: bittersweet-vole-855
+run_uuid: 680da2a34aae447f9c3fe2a31805899f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720800656787
+status: 3
+tags: []
+user_id: olatunji

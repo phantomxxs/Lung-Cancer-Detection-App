@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/769216392426650226
+creation_time: 1720800647877
+experiment_id: '769216392426650226'
+last_update_time: 1720800647877
+lifecycle_stage: active
+name: cnn_project_experiment

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lung Cancer Classification</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div id="toast-container"></div>
+    <div class="container">
+        <h1>Lung Cancer Classification</h1>
+        <div class="upload-section">
+            <div class="image-preview" id="imagePreview">
+                <img src="" alt="Image Preview" id="previewImg" style="display: none;">
+                <span id="previewText">Drag and drop an image or click to select</span>
+            </div>
+            <input type="file" id="imageInput" accept="image/*">
+            <div class="button-container">
+                <button id="uploadButton">Upload</button>
+                <button id="predictButton" disabled>Predict</button>
+            </div>
+        </div>
+        <div class="loading" id="loading" style="display: none;">
+            <p>Loading...</p>
+        </div>
+        <div class="results" id="results" style="display: none;">
+            <h2>Prediction Results</h2>
+            <div id="resultContent"></div>
+            <button id="resetButton">Try Another Image</button>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>

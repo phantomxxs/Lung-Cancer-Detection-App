@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/565800955617007606/3280aeb87eae452fbf06ebe6146f7a58/artifacts
+end_time: 1723176951985
+entry_point_name: ''
+experiment_id: '565800955617007606'
+lifecycle_stage: active
+run_id: 3280aeb87eae452fbf06ebe6146f7a58
+run_name: painted-mule-709
+run_uuid: 3280aeb87eae452fbf06ebe6146f7a58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723176943316
+status: 3
+tags: []
+user_id: olatunji

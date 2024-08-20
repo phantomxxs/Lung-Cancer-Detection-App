@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/736818728838167218/5203de9863c9444daf690823e717d7e1/artifacts
+end_time: 1723165400555
+entry_point_name: ''
+experiment_id: '736818728838167218'
+lifecycle_stage: active
+run_id: 5203de9863c9444daf690823e717d7e1
+run_name: learned-shoat-626
+run_uuid: 5203de9863c9444daf690823e717d7e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723165392515
+status: 3
+tags: []
+user_id: olatunji

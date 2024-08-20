@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/769216392426650226/feaac5a572b54ba8b9210dd8751922b2/artifacts
+end_time: 1720810373448
+entry_point_name: ''
+experiment_id: '769216392426650226'
+lifecycle_stage: active
+run_id: feaac5a572b54ba8b9210dd8751922b2
+run_name: sedate-dog-66
+run_uuid: feaac5a572b54ba8b9210dd8751922b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720810350461
+status: 3
+tags: []
+user_id: olatunji

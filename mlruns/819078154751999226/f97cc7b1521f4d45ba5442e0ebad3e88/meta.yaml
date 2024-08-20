@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/819078154751999226/f97cc7b1521f4d45ba5442e0ebad3e88/artifacts
+end_time: 1723181392676
+entry_point_name: ''
+experiment_id: '819078154751999226'
+lifecycle_stage: active
+run_id: f97cc7b1521f4d45ba5442e0ebad3e88
+run_name: able-ox-407
+run_uuid: f97cc7b1521f4d45ba5442e0ebad3e88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723181384843
+status: 3
+tags: []
+user_id: olatunji

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/780547946274002709/7ecfa3b317554d508b9ddfe8d6f2ffd4/artifacts
+end_time: 1723145419954
+entry_point_name: ''
+experiment_id: '780547946274002709'
+lifecycle_stage: active
+run_id: 7ecfa3b317554d508b9ddfe8d6f2ffd4
+run_name: gaudy-koi-391
+run_uuid: 7ecfa3b317554d508b9ddfe8d6f2ffd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723145414229
+status: 3
+tags: []
+user_id: olatunji
